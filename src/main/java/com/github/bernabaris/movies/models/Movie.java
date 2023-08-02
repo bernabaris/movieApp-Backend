@@ -1,6 +1,5 @@
-package com.github.bernabaris.movies.movie;
+package com.github.bernabaris.movies.models;
 
-import com.github.bernabaris.movies.review.Review;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

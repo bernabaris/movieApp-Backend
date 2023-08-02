@@ -1,5 +1,7 @@
-package com.github.bernabaris.movies.user;
+package com.github.bernabaris.movies.services;
 
+import com.github.bernabaris.movies.models.User;
+import com.github.bernabaris.movies.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

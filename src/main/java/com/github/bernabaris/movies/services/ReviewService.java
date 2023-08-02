@@ -1,6 +1,8 @@
-package com.github.bernabaris.movies.review;
+package com.github.bernabaris.movies.services;
 
-import com.github.bernabaris.movies.movie.Movie;
+import com.github.bernabaris.movies.models.Movie;
+import com.github.bernabaris.movies.models.Review;
+import com.github.bernabaris.movies.repositories.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;

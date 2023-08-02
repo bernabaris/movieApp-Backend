@@ -1,5 +1,7 @@
-package com.github.bernabaris.movies.movie;
+package com.github.bernabaris.movies.services;
 
+import com.github.bernabaris.movies.models.Movie;
+import com.github.bernabaris.movies.repositories.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,5 +1,6 @@
-package com.github.bernabaris.movies.movie;
+package com.github.bernabaris.movies.repositories;
 
+import com.github.bernabaris.movies.models.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

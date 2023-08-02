@@ -1,5 +1,7 @@
-package com.github.bernabaris.movies.movie;
+package com.github.bernabaris.movies.controllers;
 
+import com.github.bernabaris.movies.models.Movie;
+import com.github.bernabaris.movies.services.MovieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
