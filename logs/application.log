@@ -1,0 +1,9 @@
+07-08-2023 14:26:37.619 [main] INFO  c.g.b.movies.MoviesApplicationTests.logStarting - Starting MoviesApplicationTests using Java 17.0.7 with PID 20384 (started by testinium in C:\Users\testinium\CODE\movieApp-Backend)
+07-08-2023 14:26:37.621 [main] INFO  c.g.b.movies.MoviesApplicationTests.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+07-08-2023 14:26:40.428 [main] INFO  c.g.b.movies.MoviesApplicationTests.logStarted - Started MoviesApplicationTests in 3.208 seconds (process running for 4.168)
+07-08-2023 17:53:37.446 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStarting - Starting MoviesApplication using Java 20.0.2 with PID 10840 (C:\Users\testinium\CODE\movieApp-Backend\target\classes started by testinium in C:\Users\testinium\CODE\movieApp-Backend)
+07-08-2023 17:53:37.449 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+07-08-2023 17:53:40.124 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStarted - Started MoviesApplication in 3.06 seconds (process running for 3.43)
+08-08-2023 11:02:13.228 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStarting - Starting MoviesApplication using Java 20.0.2 with PID 628 (C:\Users\testinium\CODE\movieApp-Backend\target\classes started by testinium in C:\Users\testinium\CODE\movieApp-Backend)
+08-08-2023 11:02:13.232 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+08-08-2023 11:02:16.607 [restartedMain] INFO  c.g.b.movies.MoviesApplication.logStarted - Started MoviesApplication in 3.947 seconds (process running for 4.594)
