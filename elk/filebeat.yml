@@ -2,7 +2,7 @@ filebeat.inputs:
   - type: filestream
     id: default-filestream
     paths:
-      - movieApp-Backend/logs/application.log
+      - ingest_data/*.log
 
 filebeat.autodiscover:
   providers:
